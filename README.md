@@ -11,6 +11,7 @@ A Software Engineer with 4+ years of hands-on experience in Frontend development
 *   ✉️  You can contact me at [syfonisaac@gmail.com](mailto:syfonisaac@gmail.com)
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I'm a lover of meeting new people and building connections### Skills 
+*   
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -27,7 +28,7 @@ A Software Engineer with 4+ years of hands-on experience in Frontend development
                   ### Socials
                   
                   
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://www.dev.to/syfonisaac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
                           
