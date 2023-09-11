@@ -4,7 +4,7 @@ Hi 👋 My name is Sifon Isaac
 I am a Frontend Engineer on a mission to improve daily.
 -------------------------------------------------------
 
-A Software Engineer with 4+ years of hands-on experience in Frontend development. I'm focused on improving the user experience because I understand its importance, from simplicity to uniqueness and responsiveness. Beyond writing codes, I have excellent leadership and teamwork abilities.
+A Software Engineer with 5+ years of hands-on experience in Frontend development. I'm focused on improving the user experience because I understand its importance, from simplicity to uniqueness and responsiveness. Beyond writing codes, I have excellent leadership and teamwork abilities.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Sifon Isaac](http://https://sifonisaac.netlify.app/)
