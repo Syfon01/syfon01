@@ -1,8 +1,8 @@
 Hi 👋 My name is Sifon Isaac
 ============================
 
-I am a Frontend Engineer on a mission to improve daily.
--------------------------------------------------------
+I am a Software Engineer on a mission to be better than I was yesterday.
+-----------------------------------------------------------------------
 
 A Software Engineer with 5+ years of hands-on experience in Frontend development. I'm focused on improving the user experience because I understand its importance, from simplicity to uniqueness and responsiveness. Beyond writing codes, I have excellent leadership and teamwork abilities.
 
